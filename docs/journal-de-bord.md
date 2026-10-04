@@ -46,6 +46,23 @@
 Récupérer et comprendre le tableau des rendements 2010–2025.
 
 ---
+### 4 octobre 2026 — Préparation et exploration des rendements
+
+Travail réalisé :
+- Lecture du fichier ODS avec pandas.
+- Transformation en 48 lignes : 3 cultures × 16 campagnes.
+- Vérification : aucun doublon ni rendement manquant.
+- Graphique d’évolution des rendements.
+- Calcul des écarts à la moyenne pour 2018, 2020 et 2022.
+- Export du tableau préparé en CSV.
+
+Observation :
+Les trois cultures présentent des rendements sous leur moyenne
+pendant ces campagnes. La cause reste à examiner avec la météo.
+
+Prochaine action :
+Identifier les stations météo représentatives des zones céréalières
+de Haute-Garonne et vérifier leur couverture depuis l’automne 2009.
 
 ## Modèle à copier pour une nouvelle séance
 
