@@ -5,7 +5,7 @@
 - Projet : prévision du rendement moyen du blé tendre en Haute-Garonne.
 - Historique : 2010–2025 ; test final indépendant : 2026.
 - Échéance principale proposée : 1er mai ; variantes : 1er mars et 1er juin.
-- URL du dépôt : à compléter.
+- URL du dépôt : https://github.com/naim-hamidi-data/prediction-rendement-ble-31
 - Notebook Colab : à créer.
 - Étape active : installation du cadre de travail.
 - Prochaine action : ajouter les dossiers sur GitHub, puis récupérer les rendements officiels 2010–2025.
