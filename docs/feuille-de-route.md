@@ -11,9 +11,9 @@ Cadrage initial terminé. Organisation préparée ; ajout sur GitHub à confirme
 
 - [x] Rédiger le README et le cahier des charges initial.
 - [x] Préparer les dossiers et les documents de suivi.
-- [ ] Ajouter cette organisation au dépôt GitHub.
-- [ ] Noter l’URL du dépôt dans le journal de bord.
-- [ ] Ouvrir et enregistrer un premier notebook Google Colab.
+- [x] Ajouter cette organisation au dépôt GitHub.
+- [x] Noter l’URL du dépôt dans le journal de bord.
+- [x] Ouvrir et enregistrer un premier notebook Google Colab.
 
 Validation : les documents sont accessibles sur GitHub et le notebook s’exécute.
 
